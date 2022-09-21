@@ -1,0 +1,11 @@
+.bold{
+   font-weight: 600;
+}
+.italic{
+   font-style: italic;
+   font-weight: 600;
+}
+.artc_1, .artc_2, .artc_3, .artc_4, .artc_5{
+   font-weight: 600;
+   font-size: 20px;
+}
